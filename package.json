@@ -1,0 +1,23 @@
+{
+  "name": "jueguito",
+  "version": "1.0.0",
+  "description": "Typescript Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YessRubalcaba/Jueguito.git"
+  },
+  "author": "Yessenia Rubalcaba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YessRubalcaba/Jueguito/issues"
+  },
+  "homepage": "https://github.com/YessRubalcaba/Jueguito#readme",
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  }
+}
